@@ -1,16 +1,20 @@
-### Hi there 👋
+**👽 Halt earthling! You've just crash-landed into my coding galaxy!**
 
-<!--
-**yeruvasaijahnavi/yeruvasaijahnavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Prepare to be assimilated into the collective of superior programming intellect or face the wrath of intergalactic bugs! 🪰**
 
-Here are some ideas to get you started:
+Mwahahaa! 😈
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Weren’t expecting that one, were you? 😌
+
+.
+
+.
+
+.
+
+
+...wait wait, come back! 🥺
+
+Maybe we got off on the wrong foot...
+
+Let's give this another go, shall we?
