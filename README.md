@@ -1,4 +1,4 @@
-# ~~Hello World!~~
+# ~~👋Hello World!~~
 
 **👽 Halt earthling! You've just crash-landed into my coding galaxy!**
 
