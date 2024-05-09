@@ -1,3 +1,6 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeruvasaijahnavi&show_icons=true&theme=radical&hide_border=true&border_radius=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeruvasaijahnavi&layout=compact&bg_color=0,c3d8f7,8a78c4,232c67&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff")
+
 # ~~👋Hello World!~~
 
 **👽 Halt earthling! You've just crash-landed into my coding galaxy!**
