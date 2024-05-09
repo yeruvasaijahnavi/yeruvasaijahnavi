@@ -2,7 +2,7 @@
 
 **👽 Halt earthling! You've just crash-landed into my coding galaxy!**
 
-**Surrender to superior coding intellect or else prepare to face the wrath of a thousand intergalactic bugs! 🪰**
+**Surrender to my superior coding intellect or else prepare to face the wrath of a thousand intergalactic bugs! 🪰**
 
 Mwahahaa! 😈
 
