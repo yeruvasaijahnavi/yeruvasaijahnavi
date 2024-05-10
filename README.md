@@ -1,5 +1,12 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeruvasaijahnavi&show_icons=true&theme=radical&hide_border=true&border_radius=10)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeruvasaijahnavi&layout=compact&bg_color=0,c3d8f7,8a78c4,232c67&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff")
+![Astronaut Introduction](img/astronaut_greeting.gif "I'm Yeruva Sai Jahnavi. Welcome to my corner of the Coding Cosmos!")
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yeruvasaijahnavi&show_icons=true&layout=compact&bg_color=60,152047,6a3c70&hide_border=true&title_color=ffffff&text_color=d0ccee&icon_color=ffffff&hide_rank=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeruvasaijahnavi&layout=compact&bg_color=60,152047,6a3c70&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
+</a>
+
+
 
 # ~~👋Hello World!~~
 
@@ -24,7 +31,7 @@ Maybe we got off on the wrong foot...
 Let's give this another go, shall we?
 
 <details>
-<summary> ⬅️ Open the airlock when you're ready! </summary>
+<summary> 👀 </summary>
 <br>
 
 ![Astronaut Introduction](img/astronaut_greeting.gif "I'm Yeruva Sai Jahnavi. Welcome to my corner of the Coding Cosmos!")
