@@ -1,3 +1,5 @@
+![Snake animation](https://raw.githubusercontent.com/{yeruvasaijahnavi}/{yeruvasaijahnavi}/output/github-contribution-grid-snake-dark.svg)
+
 # ~~👋Hello World!~~
 
 **👽 Halt earthling! You've just crash-landed into my coding galaxy!**
