@@ -1,5 +1,3 @@
-![Snake animation](https://raw.githubusercontent.com/yeruvasaijahnavi/yeruvasaijahnavi/output/github-contribution-grid-snake-dark.svg)
-
 # ~~👋Hello World!~~
 
 **👽 Halt earthling! You've just crash-landed into my coding galaxy!**
@@ -35,6 +33,7 @@ Feel free to explore, and remember, in the world of software, the only limit is 
 <br><br>
 Despite our initial cosmic miscommunication, you're welcome to visit this corner of the coding cosmos at anytime. Thanks for stopping by, and enjoy your stay! 🌌
 
+# Stats
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=120 align="center" src="https://github-readme-stats.vercel.app/api?username=yeruvasaijahnavi&show_icons=true&layout=compact&bg_color=60,152047,6a3c70&hide_border=true&title_color=d0ccee&text_color=ffffff&icon_color=d0ccee&rank_icon=github" />
@@ -45,6 +44,7 @@ Despite our initial cosmic miscommunication, you're welcome to visit this corner
 <a href="https://git.io/streak-stats">
   <img height=120 align="center" src="https://streak-stats.demolab.com?user=yeruvasaijahnavi&theme=dark&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&background=60%2C152047%2C6A3C70&excludeDaysLabel=EB545400&dates=A09CBD&fire=FFB600" alt="GitHub Streak" />
 </a>
+  <img alt="GitHub Snake" src="https://github.com/yeruvasaijahnavi/yeruvasaijahnavi/blob/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 
