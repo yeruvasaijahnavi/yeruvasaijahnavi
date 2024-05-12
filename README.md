@@ -1,4 +1,4 @@
-![Snake animation](https://raw.githubusercontent.com/{yeruvasaijahnavi}/{yeruvasaijahnavi}/output/github-contribution-grid-snake-dark.svg)
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/yeruvasaijahnavi/yeruvasaijahnavi/output/github-contribution-grid-snake.svg" />
 
 # ~~👋Hello World!~~
 
