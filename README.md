@@ -27,7 +27,7 @@ Let's give this another go, shall we?
 
 <!-->![Astronaut Introduction](img/astronaut_greeting.gif "I'm Yeruva Sai Jahnavi. Welcome to my corner of the Coding Cosmos!")<!-->
 <p align="center">
-<img height=400 alt="Astronaut Introduction" src="img/astronaut_greeting.gif" />
+<img height=400 alt="Astronaut Introduction" src="img/astronaut.gif" />
 </p>
 Greetings Earthling! 🖖
 <br><br>
