@@ -26,7 +26,7 @@ Let's give this another go, shall we?
 <br>
 
 <p align="center">
-<img height=400 alt="Astronaut Introduction" src="img/astronaut.gif" />
+<img width=900 alt="Astronaut Introduction" src="img/astronaut.gif" />
 </p>
 Greetings Earthling! 🖖
 <br><br>
