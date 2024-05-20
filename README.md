@@ -27,7 +27,9 @@ Let's give this another go, shall we?
 
 <p align="center">
 <img width=900 alt="Astronaut Introduction" src="img/astronaut.gif" />
+<blockquote align="center"> GIF taking an eon to load? Perfect time to hydrate!💧 </blockquote>
 </p>
+
 Greetings Earthling! 🖖
 <br><br>
 You've stumbled upon the GitHub profile of an extraordinary human being (or so my mom tells me). Here you'll find repositories filled with code, ideas, and the occasional ramblings of a programmer's mind.
