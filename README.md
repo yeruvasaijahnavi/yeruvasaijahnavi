@@ -60,7 +60,6 @@ Feel free to explore! Despite our initial...miscommunication, you're welcome to 
 <a href="https://git.io/streak-stats">
   <img height=180 align="center" src="https://streak-stats.demolab.com?user=yeruvasaijahnavi&theme=dark&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&background=60%2C152047%2C6A3C70&excludeDaysLabel=EB545400&dates=A09CBD&fire=FFB600" alt="GitHub Streak" />
 </a>
-  <img alt="GitHub Snake" src="https://github.com/yeruvasaijahnavi/yeruvasaijahnavi/blob/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 </details>
