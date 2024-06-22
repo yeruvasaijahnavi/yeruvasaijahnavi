@@ -1,4 +1,4 @@
-<h1> <del>Hello World!👋</del> </h1>
+<h1 align="center"> <del>Hello World!👋</del> </h1>
 
 <div style="border:1px solid black; padding:10px;">
 <h3 align="center"> 👽 Halt earthling! You've just crash-landed into my coding galaxy!</h3>
